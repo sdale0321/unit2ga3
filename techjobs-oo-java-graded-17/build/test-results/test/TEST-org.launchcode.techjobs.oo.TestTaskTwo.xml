@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobs.oo.TestTaskTwo" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-11-11T16:20:50" hostname="SDALE0321LPT" time="0.01">
+  <properties/>
+  <testcase name="testPositionTypeToStringMethod" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testSecondLocationConstructorExists" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testSecondLocationConstructorInitializesValue" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testCoreCompetencyHasIdGetter" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testCoreCompetencyHasNoIdSetter" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testPositionTypeHashCodeMethod" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <testcase name="testCoreCompetencyHasValueAccessors" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.0"/>
+  <testcase name="testSecondLocationConstructorInitializesId" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.0"/>
+  <testcase name="testPositionTypeEqualsMethod" classname="org.launchcode.techjobs.oo.TestTaskTwo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

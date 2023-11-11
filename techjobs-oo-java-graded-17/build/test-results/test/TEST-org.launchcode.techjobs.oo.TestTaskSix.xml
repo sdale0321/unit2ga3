@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobs.oo.TestTaskSix" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-11-11T16:20:50" hostname="SDALE0321LPT" time="0.003">
+  <properties/>
+  <testcase name="testLocationExtendsJobField" classname="org.launchcode.techjobs.oo.TestTaskSix" time="0.001"/>
+  <testcase name="testEmployerExtendsJobField" classname="org.launchcode.techjobs.oo.TestTaskSix" time="0.0"/>
+  <testcase name="testPositionTypeExtendsJobField" classname="org.launchcode.techjobs.oo.TestTaskSix" time="0.0"/>
+  <testcase name="testJobFieldClassExists" classname="org.launchcode.techjobs.oo.TestTaskSix" time="0.0"/>
+  <testcase name="testCoreCompetencyExtendsJobField" classname="org.launchcode.techjobs.oo.TestTaskSix" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

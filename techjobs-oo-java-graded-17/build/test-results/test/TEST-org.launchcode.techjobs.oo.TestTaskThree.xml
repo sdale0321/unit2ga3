@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobs.oo.TestTaskThree" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-11-11T16:20:50" hostname="SDALE0321LPT" time="0.013">
+  <properties/>
+  <testcase name="testNameAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.0"/>
+  <testcase name="testNoArgConstructorSetsUniqueIds" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.0"/>
+  <testcase name="testSecondConstructorArguments" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testEqualsMethod" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.0"/>
+  <testcase name="testHashCodeMethod" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testHasNoNextIdAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testNoArgConstructorInitializesIdField" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testHasNoArgConstructor" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testSecondConstructorInitializesProperties" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testIdAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.0"/>
+  <testcase name="testCoreCompetencyAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.0"/>
+  <testcase name="testLocationAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testPositionTypeAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <testcase name="testEmployerAccessors" classname="org.launchcode.techjobs.oo.TestTaskThree" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
